@@ -1,0 +1,40 @@
+#first{
+    background-color:yellowgreen;
+    width: 900px;
+    text-align: center;
+    
+}
+
+#final{
+    background-color: antiquewhite;
+    width: 900px;
+    text-align: center;
+    margin: 0 auto;
+    
+    /*border: 1px solid red;
+    we can add pixel as a border
+
+    */
+    border: 8px solid red;
+    border: 8px solid black;
+}
+
+/*  makign all the td colorful */
+
+td{
+    background-color: beige;
+}
+
+/* make a specfic column colorful 
+with class or can use id */
+#imp{
+    background-color: brown;
+}
+
+
+#wth{
+    width:900px;
+    text-align: center;
+    margin:0 auto;
+    border: 8px solid black;
+}

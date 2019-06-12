@@ -1,0 +1,32 @@
+.mydiv{
+    background-color: beige;
+}
+.mydiv1{
+    width:500px;
+    height:100px;
+    background-color: blanchedalmond;
+    /* margin top width right  bottom 
+    select position for the while element
+    */
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+.mydiv5{
+    padding: 10px;
+}
+
+#wrapper p{
+    /* this is for element selecting inside the 
+    and id */
+    color:red;
+}
+
+#wrapper2>p{
+    /* when you use greater than sign it only affect the child no the grand child */
+        /* so inside the div class wont be affected */
+    /* this is for element selecting inside the 
+    and id */
+    color:red;
+}

@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url("img/bc.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-color: beige;
+
+}
+.display-4{
+    background-color: blueviolet;
+}
+/* using id as  a selector  */
+#first{
+    background-color: azure;
+}
+
+#second {
+    background-color: yellow;
+}
+
+.third{
+    background-color: royalblue;
+
+}
+
+
